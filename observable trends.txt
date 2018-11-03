@@ -1,0 +1,8 @@
+Jacob Lingwall
+Three observable trends in the weather data.
+
+1. There is a strong correlation between cloud cover and a small latitude.
+
+2. On average wind speeds tend to be higher near the equator
+
+3. Typically there seems to be a lower maximun humidity near teh equator.
